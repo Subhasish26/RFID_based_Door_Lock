@@ -1,0 +1,5 @@
+Add this Library to
+My Documents > Arduino > Libraries
+
+Also, after opening the code in Arduino IDE software, add the library.
+to add the library, go to Sketch > Include Library > Add .ZIP Library.
